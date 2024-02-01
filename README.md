@@ -95,3 +95,12 @@ The project analyzes publicly available COVID-19 data, focusing on infection rat
 
 ### Test Bucket Data
 ![Test Bucket Data Stored While Transformation](./Screenshots/test_bucket_data_stored_while_transformation.png)
+
+## Additional Resources
+
+- [Data Engineering Project Diagram](./Data%20Model/DE%20project.drawio.pdf)
+- [Dimensional Model Diagram](./Dimensional%20Model/Dimension.drawio.pdf)
+
+## Conclusion
+
+This project showcases the power of cloud computing and data analytics in understanding and combatting the global pandemic. Through AWS's scalable architecture and Python's analytical prowess, we've developed a comprehensive pipeline from data ingestion to insightful visualization, contributing valuable findings to COVID-19 research.
